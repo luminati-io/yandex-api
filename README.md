@@ -31,7 +31,7 @@ This repository offers two reliable solutions for extracting data from Yandex Se
 
 The free scraper provides a straightforward way to collect Yandex SERP data at a small scale. It's perfect for developers needing limited data for personal projects, research, or testing purposes.
 
-<img width="800" alt="free-yandex-serp-scraper" src="https://github.com/user-attachments/assets/775c71f6-10cf-4a2d-91b8-6f137db5b171" />
+<img width="800" alt="free-yandex-serp-scraper" src="https://github.com/luminati-io/yandex-api/blob/main/images/428371413-775c71f6-10cf-4a2d-91b8-6f137db5b171.png" />
 
 ### Setup Requirements
 
@@ -62,13 +62,13 @@ PAGES_PER_TERM = {
 3. Run the script
 
 ### Sample Output
-<img width="800" alt="yandex-scraper-output" src="https://github.com/user-attachments/assets/dbd6f456-af64-4a4a-8735-f26876ae5fa8" />
+<img width="800" alt="yandex-scraper-output" src="https://github.com/luminati-io/yandex-api/blob/main/images/428371812-dbd6f456-af64-4a4a-8735-f26876ae5fa8.png" />
 
 
 ### Limitations
 One of the biggest challenges when scraping Yandex is its aggressive CAPTCHA protection:
 
-<img width="800" alt="yandex-captcha-challenge" src="https://github.com/user-attachments/assets/309e645f-c043-4231-aeb2-c3417e91b15e" />
+<img width="800" alt="yandex-captcha-challenge" src="https://github.com/luminati-io/yandex-api/blob/main/images/428371880-309e645f-c043-4231-aeb2-c3417e91b15e.png" />
 
 
 Yandex uses a strict and constantly evolving anti-bot system to prevent automated data extraction. Frequent CAPTCHA triggers can quickly lead to IP blocks, making it tough to maintain stable, long-running scrapers.
@@ -99,7 +99,7 @@ The [Yandex Search API](https://brightdata.com/products/serp-api/yandex-search) 
 
  📌 Try Before You Buy: Test it for free in our SERP API Live Demo
  
- <img width="800" alt="bright-data-serp-api-playground" src="https://github.com/user-attachments/assets/c089343e-50a8-4961-8d11-d312982480df" />
+ <img width="800" alt="bright-data-serp-api-playground" src="https://github.com/luminati-io/yandex-api/blob/main/images/428391143-c089343e-50a8-4961-8d11-d312982480df.png" />
 
 
 ### Getting Started
