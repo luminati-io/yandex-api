@@ -1,5 +1,7 @@
 # Yandex Search Scraper
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/yandex-search)
+
 This repository offers two reliable solutions for extracting data from Yandex Search Engine Results Pages (SERPs):
 
 - **Free Yandex Scraper:** A basic tool for scraping Yandex Search Results at small scale
@@ -48,7 +50,7 @@ playwright install
 
 ### Quick Start Guide
 
-1. Open [yandex-search-results-scraper.py](https://github.com/triposat/Yandex-SERP-Scraper/blob/main/yandex-serp-scraper/yandex-serp-scraper.py)
+1. Open [yandex-search-results-scraper.py](https://github.com/luminati-io/yandex-api/blob/main/yandex-serp-scraper/yandex-serp-scraper.py)
 2. Customize the search terms and page count variables:
 
 ```python
@@ -104,7 +106,7 @@ The [Yandex Search API](https://brightdata.com/products/serp-api/yandex-search) 
 
 1. [Create a Bright Data account](https://brightdata.com/) (new users receive a $5 credit)
 2. Generate your [API key](https://docs.brightdata.com/general/account/api-token)
-3. Follow our [step-by-step guide](https://github.com/triposat/Yandex-SERP-Scraper/blob/main/setup-serp-api-guide.md) to configure the SERP API
+3. Follow our [step-by-step guide](https://github.com/luminati-io/yandex-api/blob/main/setup-serp-api-guide.md) to configure the SERP API
 
 
 ## Implementation Methods
@@ -192,7 +194,7 @@ print("Response saved!")
 > **Note:** When using the native proxy approach, it's recommended to install Bright Data's SSL certificate for production use. Learn more in the [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate).
 > 
 
-👉 See the [full HTML output](https://github.com/triposat/Yandex-SERP-Scraper/blob/main/yandex-scraper-api-output/yandex-scraper-api-result.html)
+👉 See the [full HTML output](https://github.com/luminati-io/yandex-api/blob/main/yandex-scraper-api-output/yandex-scraper-api-result.html)
 
 *The query parameters like `lr` and `lang` are explained in the next section.*
 
